@@ -1,0 +1,15 @@
+1. Find 2 examples (not mentioned in the lecture) where AI outperformed humans and describe them shortly.
+
+- AI in Chess: AI surpassed humans in chess in 1997 when IBM’s Deep Blue defeated world champion Garry Kasparov, marking the first time a computer won against a reigning champion. This marked AI's ability not just to defeat humans, but also revolutionize chess strategies, reshaping the way even top players approach the game.
+
+- AI in Radiology: Studies have shown that AI algorithms can diagnose diseases from medical images (like X-rays and MRIs) with higher accuracy than radiologists. For example, a 2020 study found that an AI system could detect breast cancer in mammograms more accurately than human radiologists, leading to fewer false positives and negatives.
+
+2. Find 2 examples (not presented in the lecture) where AI was harmful and describe them shortly.
+- Uber's Self-Driving Car Fatality (2018): In March 2018, an Uber self-driving car struck and killed a pedestrian in Arizona. The Autonomous driving system failed to recognize a pedestrian crossing the street. Although there was a safety driver in the vehicle, they were not actively monitoring the road at the time of the incident.
+
+- Boeing 737 MAX Crashes: MCAS Malfunction, the MCAS was designed to prevent the aircraft from stalling by automatically adjusting the plane's nose. However, it relied on data from a single angle-of-attack sensor. In both crashes, erroneous readings from this sensor triggered the system, forcing the nose down repeatedly and the pilot was not trained for this situation and the system can not turn off manually.
+
+3.Name 3 interpretable models and 3 black-box models
+
+- Interpretable models: Decision tree, Linear Regression, Logistic Regression
+- Black box: Deep Neural Networks, Support Vector Machine, Random Forests

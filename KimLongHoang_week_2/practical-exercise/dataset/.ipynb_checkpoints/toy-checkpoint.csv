@@ -1,0 +1,10 @@
+Age,Income,Previous Purchase,Buy Product
+Young,High,No,No
+Young,Low,Yes,Yes
+Young,Medium,Yes,Yes
+Middle,High,No,Yes
+Middle,Medium,No,No
+Middle,Low,Yes,Yes
+Old,Low,No,No
+Old,Medium,Yes,Yes
+Old,High,No,No
